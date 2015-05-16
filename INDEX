@@ -1,1 +1,12 @@
+<doctype HTML>
 
+<div class="header">
+<img src="logo-main" alt="Bughouse.com Home" width="200px" />
+
+.header{
+margin: 5px
+color: sky blue
+}
+
+
+</div>
