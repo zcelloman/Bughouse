@@ -1,1 +1,35 @@
+.header {
+  float: right;
 
+}
+.spacer {
+  clear: both;
+}
+.gameSpace {
+  height: 80px;
+  margin: 0px 200;
+  position: relative;
+}
+.mainBoard {
+  margin: 0px 100px;
+  padding: 100px 200px;
+  height: 500px;
+  width: 500px;
+  background-image: url("http://timvandevall.com/wp-content/uploads/2013/09/Chess-Board-Brown-450w.jpg");
+
+  background-repeat: no-repeat;
+  float: left;
+  position: absolute;
+}
+
+.secondBoard {
+  height: 450px;
+  width: 450px;
+  background-image: url("http://timvandevall.com/wp-content/uploads/2013/09/Chess-Board-Brown-450w.jpg");
+  background-size: 350px;
+  background-repeat: no-repeat;
+  float: right;
+  position: relative;
+  top: -100px;
+  left: 500px;
+}
