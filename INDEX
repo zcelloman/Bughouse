@@ -1,12 +1,29 @@
-<doctype HTML>
-
-<div class="header">
-<img src="logo-main" alt="Bughouse.com Home" width="200px" />
-
-.header{
-margin: 5px
-color: sky blue
-}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+    <head>
+    <link type="text/css" rel="stylesheet" href="css/main.css">
 
 
-</div>
+
+    </head>
+
+
+    <body>
+
+        <div class="header">
+            <img align="right"  src="C:\Users\Gabe\Documents\Code\the_odin_project\bughouse\images\bughouseLogo.png" alt="Bughouse.com Home" width="200px" />
+        </div>
+        <div class="spacer"
+        </div>
+
+
+
+          <div class="mainBoard">
+
+          <div class="secondBoard">
+
+
+        </div>
+      </div>
+
+    </body>
+</html>
